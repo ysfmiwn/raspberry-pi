@@ -51,5 +51,6 @@
 
 
 ## 参考
+- [yoshihiroo / programming-workshop/rpi_ai_handson/README.md](https://github.com/yoshihiroo/programming-workshop/blob/master/rpi_ai_handson/README.md#%E6%A9%9F%E6%9D%90%E8%B3%BC%E5%85%A5%E3%82%AC%E3%82%A4%E3%83%89)
 - [激安USB-Serial アダプタを使って、Macと Raspberry Pi 3 をシリアル接続する](https://qiita.com/tmishina/items/612d7d1a7d76364a9e45)
 - [Raspberry PiをUART通信で操作する](https://qiita.com/shishamo_dev/items/9735ce2fcdd26cf46577)
